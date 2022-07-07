@@ -1,1 +1,1 @@
-<h1>All Birds Mark Up theme</h1>
+<h1>All Birds Theme Mark Up </h1>
