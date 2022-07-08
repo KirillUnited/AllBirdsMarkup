@@ -1,5 +1,7 @@
 /**/node_modules/
 /dist/
+/build/
+/public/
 /.git/
 /src/css/
 /**/_backstage
@@ -7,3 +9,7 @@
 /**/Thumbs.db
 /**/*.DS_Store
 /**/debug.log
+.idea
+.vscode
+.github
+.env
